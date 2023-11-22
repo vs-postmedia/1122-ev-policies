@@ -2,4 +2,4 @@
 Basic template to bootstrap interactive graphics. Made with Webpack & node.
 
 # embed code
-[protected-iframe id="091101" info="https://vs-postmedia.github.io/[graphic-slug]/" scrolling="no" width="100%" height="600"]
+[protected-iframe id="091101" info="https://vs-postmedia.github.io/1122-ev-policies/" scrolling="no" width="100%" height="750"]
